@@ -33,6 +33,6 @@ async def purger(ctx, amount=5):
       await ctx.send("Am I joke to you? :really: ")
 
 # run the bot
-client.run('NzUxOTIwNjUwOTIyMjI5ODU0.X1QGrQ.3REOq_LiRoA4gMGJiH3IYCG4_I0')
+client.run('your own bot token here')
 
 
