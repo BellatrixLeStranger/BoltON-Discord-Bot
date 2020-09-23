@@ -1,4 +1,5 @@
 # BoltON-Discord-Bot
+
 A management bot for discord servers.
 
 ## Functions
@@ -7,5 +8,7 @@ A management bot for discord servers.
 - output message in a channel when an user joins/leaves server 
 - show latency in miliseconds
 - clear messages in a channel(chat room) - optional role-restriction
-- kick/ban users - optional role-restriction(recommended)
-- role assignment (to be continued) 
+- kick/ban/unban users - optional role-restriction(recommended)
+- role assignment
+- display user/server info
+- fetch memes from reddit using PRAW
