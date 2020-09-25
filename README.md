@@ -12,4 +12,4 @@ A management bot for discord servers.
 - role assignment
 - display user/server info
 - fetch memes from reddit using PRAW
-- display timetables for slected courses
+- display timetables for selected courses
